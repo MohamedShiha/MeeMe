@@ -11,7 +11,7 @@ A meme-generating app that enables a user to attach a caption to a picture from 
 
 * [Clone](https://github.com/MohamedShiha/MemeMe.git) or [Download](https://github.com/MohamedShiha/MemeMe/archive/master.zip) this repository.
 * Open the project folder in xcode.
-* Run the project using the `play` button on top left corner of xcode as you can see below in the screenshot.
+* Run the project using the `play` button on top left corner of Xcode
 
 ## Authors
 
